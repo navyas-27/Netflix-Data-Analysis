@@ -57,6 +57,9 @@ The project includes visualizations such as:
 - Genre distribution
 - Content rating distribution (Pie Chart)
 ---
+## Project Preview
+### Top Countries on Netflix
+![Top Countries](top_countries.png)
 
 ## Project Summary
 In this project, I analyzed the Netflix dataset using Python, Pandas, NumPy, and Matplotlib. I cleaned and explored the dataset, performed statistical analysis, and visualized key insights such as the distribution of genres, countries, and content ratings. I also implemented a movie search feature and used NumPy to calculate statistics such as the average, minimum, and maximum movie duration.
